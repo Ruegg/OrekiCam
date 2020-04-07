@@ -36,12 +36,12 @@ formats/size = 2
 formats/1/format = YUY2
 formats/1/width = 640
 formats/1/height = 480
-formats/1/fps = 30
+formats/1/fps = 13
 
 formats/2/format = RGB24, YUY2
 formats/2/width = 640
 formats/2/height = 480
-formats/2/fps = 20/1, 15/2
+formats/2/fps = 13
 
 [Connections]
 connections/size = 1
