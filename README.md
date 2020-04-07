@@ -1,4 +1,4 @@
-# OrekiCam, Linux video/microhpone hijacking
+# OrekiCam, Linux video/microphone hijacking
 
 OrekiCam allows you to put your camera/microphone on pause without any indication to programs utilizing it. As a college student during COVID-19 but a cybersecurity researcher/software engineer first and foremost, I'm apprehensive to install and use any spyware on my computer given the situation. OrekiCam utilizes a forked version of akvcam which I've modified in order to create a separate virtual video capture device that can be paused from OrekiCam.
 
@@ -54,6 +54,7 @@ sudo apt install ffmpeg
 ```
 
 Installing OrekiCam modules(return to OrekiCam directory)
+*You should have NodeJS/NPM installed*
 ```
 npm install
 ```
